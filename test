@@ -1,0 +1,9 @@
+const logVisibleLightWaves = () => {
+  let lightWaves = 'Moonlight';
+	let region = 'The Arctic';
+  // Add if statement here:
+  
+  console.log(lightWaves);
+};
+
+logVisibleLightWaves();
